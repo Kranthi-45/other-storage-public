@@ -1,0 +1,255 @@
+{
+    "basics": {
+        "name": "Chaitra R Bhat",
+        "label": "Frontend Developer",
+        "image": "",
+        "email": "crbhat2000@gmail.com",
+        "phone": "+91 8970980221",
+        "url": "www.e-resume.vercel.app",
+        "summary": "<p>I'm a frontend developer with hands-on experience in backend technologies, allowing me to create comprehensive web solutions using the latest tools and techniques.</p>",
+        "location": {
+            "address": "",
+            "postalCode": "",
+            "city": "Bengaluru",
+            "countryCode": "",
+            "region": ""
+        },
+        "relExp": "1+ years",
+        "totalExp": "1+ Years",
+        "objective": "<p>Motivated to broaden my skill set with external training, with a focus on elevating major front desk performance indicators. Ready to utilize my organizational strengths to implement time-saving solutions for executives at a dynamic firm.</p>",
+        "profiles": [
+            {
+                "network": "linkedin",
+                "username": "sadanandpai",
+                "url": "https://www.linkedin.com/in/chaitra-bhat-601783201?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
+            },
+            {
+                "network": "twitter",
+                "username": "sadanandpai",
+                "url": ""
+            },
+            {
+                "network": "github",
+                "username": "sadanandpai",
+                "url": "https://github.com/chaitra-bhat20"
+            },
+            {
+                "network": "hackerrank",
+                "username": "paicube",
+                "url": ""
+            },
+            {
+                "network": "hackerearth",
+                "username": "sadanandpai",
+                "url": ""
+            },
+            {
+                "network": "codechef",
+                "username": "sadanandpai",
+                "url": ""
+            },
+            {
+                "network": "leetcode",
+                "username": "paicube",
+                "url": ""
+            }
+        ]
+    },
+    "skills": {
+        "languages": [
+            {
+                "name": "JavaScript",
+                "level": 80
+            },
+            {
+                "name": "HTML5",
+                "level": 80
+            },
+            {
+                "name": "CSS",
+                "level": 80
+            }
+        ],
+        "frameworks": [
+            {
+                "name": "React",
+                "level": 70
+            },
+            {
+                "name": "SpringBoot",
+                "level": 66
+            },
+            {
+                "name": "Java",
+                "level": 70
+            }
+        ],
+        "technologies": [
+            {
+                "name": "SQL",
+                "level": 3
+            },
+            {
+                "name": "Swagger",
+                "level": 0
+            }
+        ],
+        "libraries": [
+            {
+                "name": "Bootstrap",
+                "level": 0
+            },
+            {
+                "name": "Redux",
+                "level": 3
+            },
+            {
+                "name": "ES6",
+                "level": 0
+            },
+            {
+                "name": "Ajax",
+                "level": 0
+            }
+        ],
+        "databases": [
+            {
+                "name": "MySQL",
+                "level": 0
+            }
+        ],
+        "practices": [
+            {
+                "name": "Component based architecture",
+                "level": 3
+            },
+            {
+                "name": "Agile methodology",
+                "level": 3
+            },
+            {
+                "name": "MVC",
+                "level": 3
+            }
+        ],
+        "tools": [
+            {
+                "name": "Git",
+                "level": 3
+            },
+            {
+                "name": "VS Code",
+                "level": 3
+            },
+            {
+                "name": "Jira",
+                "level": 3
+            },
+            {
+                "name": "Eclipse",
+                "level": 3
+            },
+            {
+                "name": "STS",
+                "level": 0
+            },
+            {
+                "name": "Postman",
+                "level": 0
+            },
+            {
+                "name": "Chrome Dev Tools",
+                "level": 0
+            }
+        ]
+    },
+    "work": [
+        {
+            "id": "1",
+            "name": "Mphasis Software and Services Pvt Ltd",
+            "position": "Software Developer",
+            "url": "",
+            "startDate": "2022-12-31T18:30:00.000Z",
+            "isWorkingHere": true,
+            "endDate": null,
+            "highlights": [
+                "* Worked on a team of 5 developers to develop a web application for a client"
+            ],
+            "summary": "<ul><li>Extensive experience in crafting UI web applications using a diverse tech stack including HTML, CSS, JavaScript, jQuery, AJAX, React JS, Angular, Bootstrap, Typescript, and more.</li><li>Proficient in consuming REST APIs in both services and components, leveraging dependency injection, and conducting API testing using Postman.<br></li><li>Extensive expertise and proficiency in developing intricate single-page applications using React, Angular frameworks, Redux, Axios, webpack, mat UI, Git, Jira, etc.</li><li>Collaborated seamlessly with web designers, backend developers, and UX designers across all stages of product development, from design and coding to testing and enhancement<br></li><li>Skillfully construct React and Angular modules, services, and routing components, demonstrating proficiency in developing feature-rich grid systems with sorting, pagination, and filtering functionalities.<br></li><li>Collaborate closely with UX designers, Product Owners, Scrum Masters, and Team Leads to provide valuable insights and ensure a seamless translation of design concepts into functional, user-friendly features.<br></li><li>Ensure the scalability of the UI by optimizing loading speed and performance, contributing to an enhanced user experience.</li><li>Keep Project Managers and IT Leads informed about the overall progress of projects and teams, fostering effective communication and collaboration.</li><li>Demonstrate the ability to work within tight deadlines, effectively prioritize tasks, and execute them with precision.</li><li>Thoroughly trained and certified in the ADM FSE domain, blending theoretical knowledge with practical expertise.</li></ul><p><br></p>",
+            "years": ""
+        }
+    ],
+    "education": [
+        {
+            "id": "1",
+            "institution": "MIT, University",
+            "url": "https://www.mit.edu/",
+            "studyType": "MS",
+            "area": "Cloud technology",
+            "startDate": "2014",
+            "isStudyingHere": false,
+            "endDate": "2015-12-31T18:30:00.000Z",
+            "score": "68%",
+            "courses": []
+        },
+        {
+            "id": "2",
+            "institution": "NMAMIT, Nitte",
+            "url": "https://www.mit.edu/",
+            "studyType": "B.Tech (VTU)",
+            "area": "Computer Science",
+            "startDate": "2010",
+            "isStudyingHere": false,
+            "endDate": "2014",
+            "score": "8.3 CGPA",
+            "courses": []
+        },
+        {
+            "institution": "Rainbow InterMediate/Diploma",
+            "studyType": "12th ",
+            "area": "MPC",
+            "startDate": "2024-01-01T16:00:33.000Z",
+            "isStudyingHere": false,
+            "endDate": "2024-01-20T16:00:39.000Z",
+            "id": "0.569536676566446",
+            "url": "",
+            "courses": [],
+            "score": ""
+        }
+    ],
+    "activities": {
+        "involvements": "<br><p><strong>Techonologies Used:&nbsp; </strong>React,  HTML, CSS, Bootstrap,Java, SpringBoot, MySQL, Angular Javascript.</p><p>Movie Booking System: <a href=\"https://github.com/Kranthi-45/Stage-4-P-codes/P3-Movie\">https://github.com/Kranthi-45/Stage-4-P-codes/P3-Movie&nbsp;  </a>Covid Application: <a href=\"https://github.com/Kranthi-45/Stage-4-P-codes/P4-Covid\">https://github.com/Kranthi-45/Stage-4-P-codes/P4-Covid\n&nbsp;</a>&nbsp;&nbsp; Resource Mgmt Portal: <a href=\"https://github.com/Kranthi-45/resource-mng-admin-portal\">https://github.com/Kranthi-45/resource-mng-admin-portal </a> Ecom web Page:&nbsp;<a href=\"https://github.com/Kranthi-45/UI-Challenge-React-Modified\">https://github.com/Kranthi-45/UI-Challenge-React-Modified</a></p><p>Other React projects: <a href=\"https://github.com/Kranthi-45/Reactp-Redux-Projects\">https://github.com/Kranthi-45/Reactp-Redux-Projects</a>\n&nbsp; Remaining&nbsp;React, Angular projs : <a href=\"https://github.com/Kranthi-45\">https://github.com/Kranthi-45 </a>pls refer my Git  repo.<br></p><p><br></p>",
+        "achievements": "<ul><li>React and redux - A complete guide from Udemy</li><li>Recognition zero defect delivery<br></li><li>Agile&nbsp;Certificate from Udemy</li></ul>"
+    },
+    "volunteer": [
+        {
+            "id": "1",
+            "organization": "Company XYZ",
+            "position": "Organizer",
+            "url": "https://xyx.com/",
+            "startDate": "2012-01-01",
+            "endDate": "2013-01-01",
+            "summary": "Organized several hackthons & monthly meetup to improve the community",
+            "highlights": [
+                "Awarded 'Volunteer of the Month'"
+            ],
+            "isVolunteeringNow": false
+        }
+    ],
+    "awards": [
+        {
+            "title": "Certificate of exceptional bug finder",
+            "date": "2014-11-01",
+            "awarder": "XYZ client",
+            "summary": "* Recognition zero defect delivery",
+            "id": "1"
+        },
+        {
+            "title": "Certificate of best frontend developer",
+            "date": "2016-11-01",
+            "awarder": "XYZ client",
+            "summary": "Awarded for exceptional improvements made to improve user experience",
+            "id": "1"
+        }
+    ]
+}
